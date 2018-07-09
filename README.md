@@ -179,8 +179,6 @@ CrazyEye是基于Python开发的一款简单易用的IT审计堡垒机,通过对
 
 Alex(金角大王),多年IT自动化开发经验,国内PYTHON语言知名推广者，曾任职公安部、飞信、Nokia中国、中金公司、Advent软件、汽车之家等公司,目前任老男孩教育Python教学总监，热爱抽烟、喝酒、烫头！
 
-他的Python基础视频 http://study.163.com/course/courseMain.htm?courseId=1003245008
-
 
 技术支持
 =============
